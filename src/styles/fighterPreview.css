@@ -11,3 +11,31 @@
 .fighter-preview___left {
   align-items: flex-start;
 }
+
+
+.fighter-preview___img {
+  height: 200px;
+}
+
+.fighter-preview___img_right {
+  transform: scaleX(-1);
+}
+
+
+.fighter-preview___span {
+  color: black;
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke-width: 1px;
+  font-size: 14px;
+  font-family: 'Arial Black';
+  font-weight: 700;
+}
+
+.fighter-preview___name {
+  color: black;
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke-width: 1px;
+  font-size: 26px;
+  font-family: 'Arial Black';
+  font-weight: 700;
+}
